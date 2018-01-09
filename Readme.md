@@ -19,3 +19,7 @@ Owing to the widespread success of JavaScript as a client-side scripting languag
 Netscape delivered JavaScript to Ecma International for standardization and the work on the specification, ECMA-262, began in November 1996. The first edition of ECMA-262 was adopted by the Ecma General Assembly in June 1997. Several editions of the language standard have been published since then. The name "ECMAScript" was a compromise between the organizations involved in standardizing the language, especially Netscape and Microsoft, whose disputes dominated the early standards sessions. Eich commented that "ECMAScript was always an unwanted trade name that sounds like a skin disease."
 
 While both JavaScript and JScript aim to be compatible with ECMAScript, they also provide additional features not described in the ECMA specifications.
+
+## [Esprima](http://esprima.org/demo/parse.html)
+
+**Esprima** is a high performance, standard-compliant [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) parser written in ECMAScript (also popularly known as [JavaScript](https://en.wikipedia.org/wiki/JavaScript)).
