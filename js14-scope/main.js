@@ -10,7 +10,7 @@ var i = 5;
 //     innerFunc();
 // };
 
-//--Histing--
+//--Hoisting--
 
 var func = function() {
     var i = 10;
